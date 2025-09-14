@@ -1,4 +1,4 @@
-# Nmap Lab
+# NmapL-ab
 
 ## Overview
 This lab contains different Nmap scans on legal targets (`scanme.nmap.org`) and localhost.  
@@ -30,3 +30,4 @@ Command: `nmap -sV scanme.nmap.org`
 ### 5. Service & Version Scan (Localhost)
 Command: `nmap -sV localhost`  
 ![Service Scan Localhost](sv-scan-localhost.png)
+
