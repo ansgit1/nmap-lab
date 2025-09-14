@@ -1,4 +1,4 @@
-# Nmap Lab
+# Nmap-Lab
 
 ## Overview
 This lab contains different Nmap scans on legal targets (`scanme.nmap.org`) and localhost.  
